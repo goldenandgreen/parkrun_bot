@@ -22,4 +22,4 @@ en:
     Please send all the questions and ideas about the bot and website to @vol1ura (Yura Volodin)
 
     🤖 *S95 Bot*, version {}
-  how_to_rotate_labels: 'You can turn the captions by sending "bot diagram 30" where 30 is the rotation angle'
+  how_to_rotate_labels: 'You can turn the labels by sending "bot diagram 30" where 30 is the rotation angle'
